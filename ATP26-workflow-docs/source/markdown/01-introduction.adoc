@@ -1,0 +1,64 @@
+[[content]]
+* link:/philosophy/essays-and-articles.html[Essays & articles]
+* link:/philosophy/speeches-and-interviews.html[Speeches & interviews]
+* link:/philosophy/third-party-ideas.html[Third party ideas]
+* link:/philosophy/latest-articles.html[Latest articles]
+* link:/audio-video/philosophy-recordings.html[Recordings]
+
+=== Philosophy of the GNU Project
+
+_Free software_ means that the software's users have freedom. (The issue
+is not about price.) We developed the GNU operating system so that users
+can have freedom in their computing.
+
+Specifically, free software means users have the
+link:/philosophy/free-sw.html[four essential freedoms]: (0) to run the
+program, (1) to study and change the program in source code form, (2) to
+redistribute exact copies, and (3) to distribute modified versions.
+
+Software differs from material objects—such as chairs, sandwiches, and
+gasoline—in that it can be copied and changed much more easily. These
+facilities are why software is useful; we believe a program's users
+should be free to take advantage of them, not solely its developer.
+
+The articles in the short list below give an overview of GNU philosophy.
+For further reading, please check the menu above, especially
+*link:/philosophy/essays-and-articles.html[Essays & Articles]*, and
+*link:/philosophy/speeches-and-interviews.html[Speeches & Interviews]*.
+
+'''''
+
+See the link:/audio-video/philosophy-recordings.html[Audio & Video
+section] for recordings of Richard Stallman's speeches.
+
+'''''
+
+==== Introduction
+
+* link:/philosophy/free-sw.html[What is Free Software?]
+* link:/philosophy/free-software-even-more-important.html[Why we must
+insist on free software]
+* link:/proprietary/proprietary.html[Proprietary Software Is Often
+Malware]
+* link:/gnu/gnu.html[History of GNU/Linux]
+* link:/philosophy/pragmatic.html[Copyleft: Pragmatic Idealism]
+* link:/philosophy/free-doc.html[Why Free Software Needs Free
+Documentation]
+* link:/philosophy/selling.html[Selling Free Software] is OK!
+* link:/philosophy/fs-motives.html[Motives For Writing Free Software]
+* link:/philosophy/right-to-read.html[The Right to Read: A Dystopian
+Short Story] by Richard Stallman
+* link:/philosophy/open-source-misses-the-point.html[Why "`Open Source`"
+Misses the Point of Free Software]
+* link:/philosophy/when-free-software-isnt-practically-superior.html[When
+Free Software Isn't (Practically) Superior]
+* link:/philosophy/government-free-software.html[Measures Governments
+Can Use to Promote Free Software]
+* link:/education/education.html[Free Software and Education]
+* link:/philosophy/limit-patent-effect.html[Giving the Software Field
+Protection from Patents]
+
+[[TOCFreedomOrganizations]]
+We also keep a list of
+link:/links/links.html#FreedomOrganizations[Organizations that Work for
+Freedom in Computer Development and Electronic Communications].
